@@ -14,7 +14,7 @@ Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-black <- 10
+black <- 20
 
 white <- 15
 
